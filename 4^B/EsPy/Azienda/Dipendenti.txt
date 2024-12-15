@@ -1,0 +1,7 @@
+Luca,Rossi,47,M,001A,Alta,False,0001A,
+Marta,Bianchi,37,F,001B,Media,False,0001A,
+Marco,Verdi,45,M,002B,Alta,False,0002B,
+Giuseppe,Drago,17,M,001C,Bassa,False,0002C,
+Giacomo,Neri,48,M,002C,Alta,False,0002C,
+Nicolò,Gialli,56,M,003C,Alta,False,0002C,
+A,A,17,M,001E,Alta,False,0001E,

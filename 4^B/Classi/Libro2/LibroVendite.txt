@@ -1,0 +1,3 @@
+Python,Ale-Dadda,Oscar,19.99,314,9,
+Python2,Dadda,DaddaOscar,12.00,28,0,
+Info,a,a,1.00,1,0,

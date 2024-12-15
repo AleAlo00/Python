@@ -1,0 +1,7 @@
+Mario,Rossi,1985/04/12,Via Roma 10,3351234567,
+Luisa,Verdi,1990/09/25,Corso Italia 15,3399876543,
+Giorgio,Bianchi,1988/07/19,Piazza Duomo 8,3286543210,
+Elena,Ferrari,1995/01/05,Viale Manzoni 22,3401122334,
+Davide,Neri,1992/12/30,Largo Garibaldi 3,3387766554,
+Sara,Marini,1993/03/15,Viale dei Colli 45,3479988776,
+Luca,Conti,1987/08/23,Via delle Rose 12,3295544332,
